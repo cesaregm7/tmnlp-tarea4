@@ -1,4 +1,5 @@
 bigram ?= True
+frase ?= "hotel hotel hotel"
 train:
 	python -c "from src.models.train import train; train($(bigram))"
 visualization:
