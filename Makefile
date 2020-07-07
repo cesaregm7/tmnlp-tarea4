@@ -1,5 +1,5 @@
 bigram ?= True
-frase ?= "hotel hotel hotel"
+frase ?= We staying in the hotel for my sister\'s wedding. The coctel was on the rooftop with a impressionant view. The staff was the most awesome of this place, wherever you need they had a solution!!! Breakfast was delicious and the room was really beautiful.
 train:
 	python -c "from src.models.train import train; train($(bigram))"
 visualization:

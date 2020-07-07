@@ -3,7 +3,7 @@ from typing import List
 from src.features import nlp
 from src.features.utils import clean_data,sent_to_words, remove_stopwords, learn_bigrams, learn_trigrams, make_ngrams, lemmatization
 
-
+#Funcion para tokenizar mediante bigrams
 def tokenize_bigrams(documents: List[str]) -> List[List[str]]:
     document_words = clean_data(documents)
     document_words = list(sent_to_words(document_words))
@@ -18,6 +18,7 @@ def tokenize_bigrams(documents: List[str]) -> List[List[str]]:
 
     return document_words_bigrams
 
+#Funcion para tokenizar mediante trigrams
 def tokenize_trigrams(documents: List[str]) -> List[List[str]]:
     document_words = clean_data(documents)
     document_words = list(sent_to_words(document_words))
