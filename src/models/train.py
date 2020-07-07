@@ -5,7 +5,6 @@ from src.data.prepare_data import read_sample
 from src.features.tokenize import tokenize_bigrams,tokenize_trigrams
 from gensim.test.utils import datapath
 import os
-from pprint import pprint
 
 #Funcion para realizar el entrenamiento
 def train(bigrams:bool = True):
