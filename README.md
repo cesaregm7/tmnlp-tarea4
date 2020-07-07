@@ -19,22 +19,22 @@
 
 A continuación, se presentan los topics obtenidos del modelo cuando el número de estos se establece en 10:
 
-1. Para este topic, las palabras más relevantes son: `book`, `say`, `check`, `ask`, `arrive`, `pay`, `leave`, `hour`, `charge` y `tell`. La interpretación que le doy a este topic es que relaciona (principalmente) los reviews respecto a la experiencia de reservación de habitaciones en el hotel y cómo fue el check in y check out de éste.
+0. Para este topic, las palabras más relevantes son: `book`, `say`, `check`, `ask`, `arrive`, `pay`, `leave`, `hour`, `charge` y `tell`. La interpretación que le doy a este topic es que relaciona (principalmente) los reviews respecto a la experiencia de reservación de habitaciones en el hotel y cómo fue el check in y check out de éste.
 
-2. Para este topic, las palabras más relevantes son: `bed`, `bathroom`, `water`, `coffee`, `shower`, `free`, `think`, `big`, `light` y `modern`. La interpretación que le doy a este topic es que relaciona (principalmente) los reviews respecto a los cuartos del hotel.
+1. Para este topic, las palabras más relevantes son: `bed`, `bathroom`, `water`, `coffee`, `shower`, `free`, `think`, `big`, `light` y `modern`. La interpretación que le doy a este topic es que relaciona (principalmente) los reviews respecto a los cuartos del hotel.
 
-3. Para este topic, las palabras más relevantes son: `little`, `have`, `romantic`, `especially`, `detail`, `wife`, `favorite`, `cost`, `exceptional` y `spot`. La interpretación que le doy a este topic es que relaciona (principalmente) los reviews respecto a los detalles y/o aspectos más positivos en la experiencia que tuvieron en el hotel.
+2. Para este topic, las palabras más relevantes son: `little`, `have`, `romantic`, `especially`, `detail`, `wife`, `favorite`, `cost`, `exceptional` y `spot`. La interpretación que le doy a este topic es que relaciona (principalmente) los reviews respecto a los detalles y/o aspectos más positivos en la experiencia que tuvieron en el hotel.
 
-4. Para este topic, las palabras más relevantes son: `stay`, `place`, `time`, `make`, `go`, `day`, `really`, `feel`, `amazing` y `spot`. La interpretación que le doy a este topic es que relaciona (principalmente) los reviews respecto a los lugares que visitaron durante la estadia.
+3. Para este topic, las palabras más relevantes son: `stay`, `place`, `time`, `make`, `go`, `day`, `really`, `feel`, `amazing` y `spot`. La interpretación que le doy a este topic es que relaciona (principalmente) los reviews respecto a los lugares que visitaron durante la estadia.
 
-5. Para este topic, las palabras más relevantes son: `cheap`, `simply`, `corner`, `guide`, `chocolate`, `desk`, `wine`, `will`, `single` y `bird`. La interpretación que le doy a este topic es que relaciona (principalmente) los reviews respecto a las actividades que podían hacer en las cercanias del hotel.
+4. Para este topic, las palabras más relevantes son: `cheap`, `simply`, `corner`, `guide`, `chocolate`, `desk`, `wine`, `will`, `single` y `bird`. La interpretación que le doy a este topic es que relaciona (principalmente) los reviews respecto a las actividades que podían hacer en las cercanias del hotel.
 
-6. Para este topic, las palabras más relevantes son: `trip`, `year`, `help`, `world`, `late`, `treat`, `stunning`, `manager`, `step` y `airport`. La interpretación que le doy a este topic es que relaciona (principalmente) los reviews respecto a cómo influyó su visita al hotel respecto al viaje que realizaron.
+5. Para este topic, las palabras más relevantes son: `trip`, `year`, `help`, `world`, `late`, `treat`, `stunning`, `manager`, `step` y `airport`. La interpretación que le doy a este topic es que relaciona (principalmente) los reviews respecto a cómo influyó su visita al hotel respecto al viaje que realizaron.
 
-7. Para este topic, las palabras más relevantes son: `huge`, `husband`, `choice`, `easy`, `entire`, `charm`, `order`, `ambiance`, `fine` y `add`. La interpretación que le doy a este topic es que relaciona (principalmente) los reviews respecto a cómo era el ambiente del hotel.
+6. Para este topic, las palabras más relevantes son: `huge`, `husband`, `choice`, `easy`, `entire`, `charm`, `order`, `ambiance`, `fine` y `add`. La interpretación que le doy a este topic es que relaciona (principalmente) los reviews respecto a cómo era el ambiente del hotel.
 
-8. Para este topic, las palabras más relevantes son: `hotel`, `beautiful`, `service`, `restaurant`, `ground`, `visit`, `food`, `excellent`, `wonderful` y `lovely`. La interpretación que le doy a este topic es que relaciona (principalmente) los reviews respecto a las comodidades que brindaba el hotel.
+7. Para este topic, las palabras más relevantes son: `hotel`, `beautiful`, `service`, `restaurant`, `ground`, `visit`, `food`, `excellent`, `wonderful` y `lovely`. La interpretación que le doy a este topic es que relaciona (principalmente) los reviews respecto a las comodidades que brindaba el hotel.
 
-9. Para este topic, las palabras más relevantes son: `room`, `staff`, `good`, `great`, `night`, `breakfast`, `nice`, `well`, `would` y `also`. La interpretación que le doy a este topic es que relaciona (principalmente) los reviews respecto al trato que el staff del hotel les dio a los visitantes.
+8. Para este topic, las palabras más relevantes son: `room`, `staff`, `good`, `great`, `night`, `breakfast`, `nice`, `well`, `would` y `also`. La interpretación que le doy a este topic es que relaciona (principalmente) los reviews respecto al trato que el staff del hotel les dio a los visitantes.
 
-10. Para este topic, las palabras más relevantes son: `open`, `art`, `history`, `roof`, `window`, `style`, `ancient`, `hallway`, `store` y `corridor`. La interpretación que le doy a este topic es que relaciona (principalmente) los reviews respecto a la arquitectura del hotel y/o lugares que visitaron durante su estadia.
+9. Para este topic, las palabras más relevantes son: `open`, `art`, `history`, `roof`, `window`, `style`, `ancient`, `hallway`, `store` y `corridor`. La interpretación que le doy a este topic es que relaciona (principalmente) los reviews respecto a la arquitectura del hotel y/o lugares que visitaron durante su estadia.
